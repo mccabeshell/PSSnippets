@@ -1,0 +1,2 @@
+# PSSnippets
+Snippets for PowerShell
